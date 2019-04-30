@@ -1,0 +1,3 @@
+2019/04/30 09:41:28 [notice] 7#7: signal process started
+2019/04/30 09:43:18 [warn] 1#1: conflicting server name "enesbasarkan.ml" on 0.0.0.0:80, ignored
+2019/04/30 09:43:18 [warn] 1#1: conflicting server name "enesbasarkan.ml" on [::]:80, ignored
